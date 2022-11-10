@@ -3,11 +3,7 @@
     padding: 0;
 }
 body{
-    background: url(backround.png);
-    background-repeat: no-repeat;
-    background-size: contain;
     background: #101029;
-    list-style: none;
 }
 
 .bol {
@@ -115,6 +111,8 @@ body{
 header{
     background: url(./img/master\ clas.png);  
    padding-bottom: 150px;
+   background-repeat: no-repeat;
+   background-size: cover;
 }
 .kart{
     margin-top: 25px;
