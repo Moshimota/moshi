@@ -116,10 +116,6 @@ header{
     background: url(./img/master\ clas.png);  
    padding-bottom: 150px;
 }
-/* -------------------------------------------header end----------------------------------- */
-/* .bir{
-    background-color: #280f46;
-} */
 .kart{
     margin-top: 25px;
     width: 270px;
@@ -162,7 +158,6 @@ header{
     color: beige;
    margin-top: 80px;
    margin-bottom: 30px;
-   /* text-align: center; */
 }
 .run{
   
@@ -179,7 +174,6 @@ header{
 .view{
     font-weight: 700;
     padding: 14px 60px;
-    /* margin-left: 20px; */
     border-radius: 50px;
     border: none;
     color: rgb(125, 63, 125);
@@ -214,10 +208,8 @@ section{
     list-style: none;
 }
 section{
-    /* background-color: #1E1E37; */
     background: #1e1e3f;
 }
-/* ----------FOOTER-------------- */
 footer{
     background: #09010D;
     
@@ -333,7 +325,6 @@ footer{
  }
  .btn3 {
     padding: 8px 16px;
-    font-family: 'SF Pro Text';
     font-style: normal;
     font-weight: 600;
     font-size: 14px;
